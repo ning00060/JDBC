@@ -1,0 +1,12 @@
+요구사항
+CRUD
+DB -> 커넥션 풀(트랜잭션 관리)
+DAO,DTO개념을 활용
+정규화 2단계까지진행
+오류 없는 완성
+단일 책임 원칙
+
+reservation location
+
+git config --global user.name "ning00060"
+git config --global user.email "ning00060@gmail.com"

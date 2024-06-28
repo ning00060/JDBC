@@ -1,0 +1,11 @@
+경로 학인
+https://jsonplaceholder.typicode.com/albums/1
+
+
+
+	int id;
+	String name;
+	String username;
+	String email;
+
+class email
